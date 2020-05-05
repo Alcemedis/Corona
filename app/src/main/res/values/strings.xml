@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Corona</string>
+
+    <!-- Used for the titles -->
+    <string name="title1">Step 1</string>
+    <string name="title2">Step 2</string>
+    <string name="title3">Step 3</string>
+    <string name="title4">Step 4</string>
+    <string name="title5">Step 5</string>
+    <string name="title6">Step 6</string>
+    <string name="title7">Step 7</string>
+
+    <!-- Used for descriptions -->
+    <string name="description1">Maintain Social Distancing</string>
+    <string name="description2">Avoid going in Public gatherings</string>
+    <string name="description3">Do not leave home unless in case of emergency </string>
+    <string name="description4">Wash your hand at least 3 times a day </string>
+    <string name="description5">Wear facial mask, or cover your face while going in public</string>
+    <string name="description6">Avoid touching your face especially nose, mouth and eyes</string>
+    <string name="description7">Keep yourself updated with on going affairs and beware of fake news</string>
+
+</resources>
